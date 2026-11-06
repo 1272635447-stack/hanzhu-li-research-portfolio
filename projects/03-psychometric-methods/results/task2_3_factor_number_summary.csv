@@ -1,0 +1,4 @@
+"method","n_factors","iterations","seed"
+"psych_return_normal_null",3,500,230500
+"psych_resampled_null",3,500,230500
+"matched_local_permutation",3,500,230501
