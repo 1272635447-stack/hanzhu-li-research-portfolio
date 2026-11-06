@@ -4,9 +4,9 @@ This repository brings together independent research and methods projects at the
 
 ## Projects
 
-1. **AI-generated research-claim audit** — a researcher-led audit of 40 claims across five AI-generated research cards, checked against cited source papers. The work recorded method-description drift, terminology shifts, omitted qualifications, and evidence-to-claim overreach.
-2. **Human–AI evidence-evaluation prototype** — an offline A/B/C interface artifact for inspecting claim–evidence relationships. A provides source access/search; B supplies an evidence passage; C presents the same evidence with structured checking prompts.
-3. **Psychometric methods training for AI-supported learning** — an R-based methods exercise using a synthetic 300-record, 15-item questionnaire dataset to practise reliability analysis, EFA, CFA, and discriminant-validity diagnostics.
+1. **[AI-generated research-claim audit](projects/01-claim-audit/README.md)** — a researcher-led audit of 40 claims across five AI-generated research cards, checked against cited source papers. The work recorded method-description drift, terminology shifts, omitted qualifications, and evidence-to-claim overreach.
+2. **[Human–AI evidence-evaluation prototype](projects/02-evidence-evaluation-prototype/README.md)** — an offline A/B/C interface artifact for inspecting claim–evidence relationships. A provides source access/search; B supplies an evidence passage; C presents the same evidence with structured checking prompts.
+3. **[Psychometric methods training](projects/03-psychometric-methods/README.md)** — an R-based methods exercise using a synthetic 300-record, 15-item questionnaire dataset to practise reliability analysis, EFA, CFA, and discriminant-validity diagnostics.
 
 ## Research integrity and scope
 
@@ -14,6 +14,6 @@ The psychometric project uses **simulated data**, not student responses, and doe
 
 The claim audit and adjudication records are researcher-led. Any retrospective AI-assisted reconstruction is identified as such; it should not be described as independent blind review or independent expert consensus.
 
-Project folders will contain their own documentation, source files, and reproducibility notes. Only materials that have passed a release and answer-leakage review will be published.
+The public repository contains selected project documentation and reviewed source materials. Researcher-only answer keys, restricted prototype builds, and full source-evidence workbooks are excluded pending separate release review.
 
 *Portfolio in progress.*
