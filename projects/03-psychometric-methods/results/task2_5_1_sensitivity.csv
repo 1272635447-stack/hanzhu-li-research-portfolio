@@ -1,0 +1,7 @@
+"method","Comparison","HTMT","lower_95","upper_95","warning_n"
+"corrected","IHS_EHS",0.3183851,0.1948172,0.4390546,1000
+"corrected","IHS_EV",0.4039679,0.2809004,0.5240351,1000
+"corrected","EHS_EV",0.3325886,0.2118416,0.4529137,1000
+"uncorrected","IHS_EHS",0.3081009,0.1893315,0.4254896,0
+"uncorrected","IHS_EV",0.3975248,0.2780128,0.5143231,0
+"uncorrected","EHS_EV",0.3235690,0.2071423,0.4425690,0"
